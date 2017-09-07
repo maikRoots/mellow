@@ -1,0 +1,1 @@
+function init(){window.addEventListener("scroll",function(e){var o=window.pageYOffset||document.documentElement.scrollTop,l=20,n=document.querySelector("header");o>20?classie.add(n,"smaller"):classie.has(n,"smaller")&&classie.remove(n,"smaller")})}wow=new WOW({boxClass:"wow",animateClass:"animated",offset:50,mobile:!1,live:!1}),wow.init(),window.onload=init();
