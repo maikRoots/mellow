@@ -15,7 +15,7 @@
 		        <nav class="hidden-xs hidden-sm">
 		            <a href="Nosotros" class="hvr-underline-from-right">Nosotros</a>
 		            <a href="Servicios" class="hvr-underline-from-right">Servicios</a>
-		            <a href="Servicios" class="hvr-underline-from-right">Servicios</a>
+		            <a href="Portafolio" class="hvr-underline-from-right">Portafolio</a>
 		            <a href="Equipo" class="hvr-underline-from-right">Equipo</a>
 		            <a href="Blog" class="hvr-underline-from-right">Blog</a>
 		            <a class="CircCenterTop" href="Contacto">Contacto</a>

@@ -78,6 +78,7 @@
         </div><!-- end.Wrapper -->
 
         <script src="<?php echo get_template_directory_uri(''); ?>js/vendor/jquery-2.1.4.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(''); ?>js/vendor/jquery.mobile.custom.min.js"></script>
         <script>window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(''); ?>js/vendor/jquery-2.1.4.min.js"><\/script>')</script>
         <!-- JS/ B o o t s t r a p -->
         <script src="<?php echo get_template_directory_uri(''); ?>js/bootstrap/bootstrap.min.js"></script>
@@ -86,6 +87,7 @@
         <script src="<?php echo get_template_directory_uri(''); ?>js/vendor/jquery.easing.1.3.js"></script>
         <script src="<?php echo get_template_directory_uri(''); ?>js/plugins/wow.min.js"></script>
         <script src="<?php echo get_template_directory_uri(''); ?>js/plugins/demo1.js"></script>
+        <script src="<?php echo get_template_directory_uri(''); ?>js/plugins/filter.js"></script>
         <script src="<?php echo get_template_directory_uri(''); ?>js/main.js"></script>
         <?php if(isset($_GET['sec']) && $_GET['sec'] != '') { ?><!-- Si es igual al nombre de página -->
         <script src="<?php echo get_template_directory_uri(''); ?>js/scripts/<?php echo $_GET['sec'].'.js'; ?>"></script>

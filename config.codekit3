@@ -325,6 +325,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/circle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/circle.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/circs.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -334,6 +344,30 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/DesarrolloPre.gif": {
+		"ft": 4194304,
+		"iS": 24313,
+		"oA": 0,
+		"oAP": "\/img\/DesarrolloPre.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/DesignPre.gif": {
+		"ft": 4194304,
+		"iS": 46668,
+		"oA": 0,
+		"oAP": "\/img\/DesignPre.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/DevelopmentPre.gif": {
+		"ft": 4194304,
+		"iS": 25441,
+		"oA": 0,
+		"oAP": "\/img\/DevelopmentPre.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/DisenoUXUI.png": {
 		"ft": 32768,
@@ -345,6 +379,14 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/DiseñoPre-2.gif": {
+		"ft": 4194304,
+		"iS": 47294,
+		"oA": 0,
+		"oAP": "\/img\/DiseñoPre-2.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/EspiEquipo.png": {
 		"ft": 32768,
@@ -367,6 +409,14 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/EstrategiaPre_1.gif": {
+		"ft": 4194304,
+		"iS": 53778,
+		"oA": 0,
+		"oAP": "\/img\/EstrategiaPre_1.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/Facebook.png": {
 		"ft": 32768,
@@ -442,6 +492,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/FlechaIzquierdaAmarilla.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/FlechaIzquierdaAmarilla.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -555,6 +616,50 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/LogoAllgo.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoAllgo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoAutounion.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoAutounion.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoCardinal.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoCardinal.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoCColima.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoCColima.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/LogoConsulting.png": {
 		"ft": 32768,
 		"iS": 10977,
@@ -563,6 +668,171 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoConsultingServicios.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoConsultingServicios.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoENARM.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoENARM.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoForma.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoForma.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoKlustera.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoKlustera.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoM88.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoM88.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoMedevolution.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoMedevolution.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoMexico.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoMexico.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoNess.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoNess.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoNoja.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoNoja.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoRank.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoRank.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoRoyal.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoRoyal.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoTandlr.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoTandlr.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoTreecap.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoTreecap.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoUbin.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoUbin.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/LogoUniversidad.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoUniversidad.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -576,6 +846,25 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/LogoVenturesServicios.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/LogoVenturesServicios.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/Marketing.gif": {
+		"ft": 4194304,
+		"iS": 70059,
+		"oA": 0,
+		"oAP": "\/img\/Marketing.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/MarketingDigital.png": {
 		"ft": 32768,
@@ -597,6 +886,25 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/img\/ResaltarServicio.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/ResaltarServicio.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/StrategyPre-2.gif": {
+		"ft": 4194304,
+		"iS": 51086,
+		"oA": 0,
+		"oAP": "\/img\/StrategyPre-2.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/TIDesarrollo.png": {
 		"ft": 32768,
@@ -726,6 +1034,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/plugins\/filter-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/plugins\/filter-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/plugins\/filter.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/plugins\/filter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/js\/plugins\/jquery.bxslider.js": {
 		"ft": 64,
 		"ma": 0,
@@ -792,6 +1120,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/vendor\/jquery.easing.1.3-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.mobile.custom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/jquery.mobile.custom.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -874,28 +1212,34 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/templates\/blog.php": {
+	"\/templates\/Blog.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/blog.php",
+		"oAP": "\/templates\/Blog.php",
 		"oF": 0
 		},
-	"\/templates\/career.php": {
+	"\/templates\/Career.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/career.php",
+		"oAP": "\/templates\/Career.php",
 		"oF": 0
 		},
-	"\/templates\/contacto.php": {
+	"\/templates\/Contacto.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/contacto.php",
+		"oAP": "\/templates\/Contacto.php",
 		"oF": 0
 		},
-	"\/templates\/equipo.php": {
+	"\/templates\/EquipInterna.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/equipo.php",
+		"oAP": "\/templates\/EquipInterna.php",
+		"oF": 0
+		},
+	"\/templates\/Equipo.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/templates\/Equipo.php",
 		"oF": 0
 		},
 	"\/templates\/inicio.php": {
@@ -904,22 +1248,22 @@
 		"oAP": "\/templates\/inicio.php",
 		"oF": 0
 		},
-	"\/templates\/nosotros.php": {
+	"\/templates\/Nosotros.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/nosotros.php",
+		"oAP": "\/templates\/Nosotros.php",
 		"oF": 0
 		},
-	"\/templates\/portafolio.php": {
+	"\/templates\/Portafolio.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/portafolio.php",
+		"oAP": "\/templates\/Portafolio.php",
 		"oF": 0
 		},
-	"\/templates\/servicios.php": {
+	"\/templates\/Servicios.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/servicios.php",
+		"oAP": "\/templates\/Servicios.php",
 		"oF": 0
 		},
 	"\/tile-wide.png": {
@@ -951,7 +1295,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 526235428,
-	"displayValue": "Mellow",
+	"displayValue": "mellow",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/apple-touch-icon.png"
 	},

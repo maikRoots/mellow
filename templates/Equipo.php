@@ -7,18 +7,18 @@
 				</nav>
 			</div>
 		</div>
-        <header>
+        <header class="HeadInter">
 	        <div class="container">
 		        <h1 id="logo" class="icon">
 					<a href="inicio" class="logotipo"></a>
     			</h1>
 		        <nav class="hidden-xs hidden-sm">
-		            <a href="nosotros" class="hvr-underline-from-right">Nosotros</a>
-		            <a href="" class="hvr-underline-from-right">Servicios</a>
-		            <a href="" class="hvr-underline-from-right">Portafolio</a>
-		            <a href="" class="hvr-underline-from-right">Equipo</a>
-		            <a href="" class="hvr-underline-from-right">Blog</a>
-		            <a class="CircCenterTop" href="">Contacto</a>
+		            <a href="Nosotros" class="hvr-underline-from-right">Nosotros</a>
+		            <a href="Servicios" class="hvr-underline-from-right">Servicios</a>
+		            <a href="Portafolio" class="hvr-underline-from-right">Portafolio</a>
+		            <a href="Equipo" class="hvr-underline-from-right">Equipo</a>
+		            <a href="Blog" class="hvr-underline-from-right">Blog</a>
+		            <a class="CircCenterTop" href="Contacto">Contacto</a>
 		        </nav>
 		        <button class="visible-xs visible-sm" id="trigger-overlay" type="button">Menú Mobile</button>
 		    </div>
@@ -26,275 +26,173 @@
 	</div><!-- end.HeadCont -->
 
     <main>
-		<section class="eyeCatch">
+
+
+		<section class="ServMain">
+			<div class="container PortaBlockHead">
+				<div class="row">
+					<h2>EQUIPO</h2>
+				    <div class=" col-md-12 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1s">
+					    <div class="row ArtCont">
+				            <div class="col-xs-12 FilterMenu">
+				    			<button class="hvr-underline-from-right" data-toggle="portfilter" data-target="all">
+									Todos
+								</button>
+								<button class="hvr-underline-from-right" data-toggle="portfilter" data-target="estra">
+									Estrategas
+								</button>
+								<button class="hvr-underline-from-right" data-toggle="portfilter" data-target="PM">
+									Project Managers
+								</button>
+								<button class="hvr-underline-from-right" data-toggle="portfilter" data-target="Dis">
+									Diseñadores
+								</button>
+								<button class="hvr-underline-from-right" data-toggle="portfilter" data-target="Dev">
+									Desarrolladores
+								</button>
+								<button class="hvr-underline-from-right" data-toggle="portfilter" data-target="merc">
+									Mercadólogos
+								</button>
+							</div>
+							<div class="post">
+								<div class="row">
+									<div class="col-md-12 equipAlbum hidden-xs">
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="100ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<a href="default.asp"><img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/></a>
+												<a href="default.asp"><img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/></a>
+												<div class="TitAsset">
+													<a class="hvr-underline-from-right" src="" target="_self"><h4>Carlos Roca</h4></a>
+													<p>Estrategia</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="200ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+												<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+											</div>
+											<div class="TitAsset">
+												<h4>Oscar Gomez</h4>
+												<p>UX/UI</p>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="300ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<a href=""><img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/EspiEquipo.png" alt="img13"/></a>
+												<a href=""><img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo4.png" alt="img13"/></a>
+											</div>
+											<div class="TitAsset">
+												<h4>M. Fernanda Espinosa</h4>
+												<p>Estrategia</p>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="200ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+												<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+											</div>
+											<div class="TitAsset">
+												<h4>Oscar Gomez</h4>
+												<p>UX/UI</p>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="200ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+												<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+											</div>
+											<div class="TitAsset">
+												<h4>Oscar Gomez</h4>
+												<p>UX/UI</p>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="100ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/>
+												<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/>
+												<div class="TitAsset">
+													<h4>Carlos Roca</h4>
+													<p>Estrategia</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="300ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/EspiEquipo.png" alt="img13"/>
+												<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo4.png" alt="img13"/>
+											</div>
+											<div class="TitAsset">
+												<h4>M. Fernanda Espinosa</h4>
+												<p>Estrategia</p>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-4 secPic2 NoPad  hidden-xs wow fadeInUp10" data-wow-delay="200ms" data-wow-duration="1s">
+											<div class="IlustHover">
+												<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+												<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
+											</div>
+											<div class="TitAsset">
+												<h4>Oscar Gomez</h4>
+												<p>UX/UI</p>
+											</div>
+										</div>
+									</div>
+									<div class=" col-md-12 slideEquipo visible-xs hidden-sm hidden-md hidden-lg">
+									    <div id="carousel-example-generic" class="carousel slide">
+									      <!-- Wrapper for slides -->
+									      <div class="carousel-inner" role="listbox">
+
+									        <!-- First slide -->
+									        <div class="item active FichaEquip">
+									          <div class="carousel-caption">
+											  	<div class="col-xs-12 picSlide">
+											  		<img src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/>
+											  	</div>
+									          </div>
+									        </div> <!-- /.item -->
+								      	</div><!-- /.carousel-inner -->
+
+									      <!-- Controls -->
+									      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+									        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+									        <span class="sr-only">Previous</span>
+									      </a>
+									      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+									        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+									        <span class="sr-only">Next</span>
+									      </a>
+									    </div><!-- /.carousel -->
+									</div>
+								</div>
+							</div>
+					    </div>
+				    </div>
+				</div>
+			</div>
+		</section>
+
+		<section class="Certificados">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-sm-6">
-						<h2 class="wow fadeInLeft10" data-wow-delay="100ms" data-wow-duration="1s">ESTRATEGIA,<br>
-							DISEÑO &<br>
-							TECNOLOGÍA<br>
-						</h2>
-						<h5 class="wow fadeInLeft10" data-wow-delay="200ms" data-wow-duration="1s">Consultoría dedicada a crear<br> experiencias digitales a la medida</h5>
-						<div class="lineYell wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1s"></div>
+					<h3>Certificados</h3>
+					<div class="lineYell wow fadeInLeft10" data-wow-duration="1s"></div>
+					<div class="col-md-3 col-sm-3 col-xs-6 LogoCert wow fadeInUp10" data-wow-delay="0">
+						<img src="<?php echo get_template_directory_uri(''); ?>/img/LogoCardinal.png" alt="Cerificado"/>
 					</div>
-					<div class="col-md-6 col-sm-6 iphoneCont">
-						<img class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2s" src="<?php echo get_template_directory_uri(''); ?>/img/iPhone.png" alt="Mobile App">
+					<div class="col-md-3 col-sm-3 col-xs-6 LogoCert wow fadeInUp10" data-wow-delay="100ms">
+						<img src="<?php echo get_template_directory_uri(''); ?>/img/LogoCardinal.png" alt="Cerificado"/>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-6 LogoCert wow fadeInUp10" data-wow-delay="200ms">
+						<img src="<?php echo get_template_directory_uri(''); ?>/img/LogoCardinal.png" alt="Cerificado"/>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-6 LogoCert wow fadeInUp10" data-wow-delay="300ms">
+						<img src="<?php echo get_template_directory_uri(''); ?>/img/LogoCardinal.png" alt="Cerificado"/>
 					</div>
 				</div>
 			</div>
 		</section>
 
-		<section class="ServCont">
-			<div class="container">
-				<div class="row row-centered">
-					<h2>NUESTROS SERVICIOS</h2>
-					<div class="lineYell wow fadeInUp" data-wow-duration="1s"></div>
-					<div class="col-md-8 col-centered wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2s">
-						<ul>
-							<li>
-								<img src="<?php echo get_template_directory_uri(''); ?>/img/EstrategiadeNegocios.png" alt="">
-								<p>Estrategía de negocios</p>
-								<div class="grid2 pull-right">
-									<figure class="effect-sarah">
-										<img src="<?php echo get_template_directory_uri(''); ?>/img/FlechaDerechaAmarilla2.png" alt="img13"/>
-										<figcaption>
-											<h6>Ver más</h6>
-											<a href="servicios">Ver más</a>
-										</figcaption>
-									</figure>
-								</div>
-							</li>
-							<li>
-								<img src="<?php echo get_template_directory_uri(''); ?>/img/DisenoUXUI.png" alt="">
-								<p>Diseño - UI/UX</p>
-								<div class="grid2 pull-right">
-									<figure class="effect-sarah">
-										<img src="<?php echo get_template_directory_uri(''); ?>/img/FlechaDerechaAmarilla2.png" alt="img13"/>
-										<figcaption>
-											<h6>Ver más</h6>
-											<a href="servicios">Ver más</a>
-										</figcaption>
-									</figure>
-								</div>
-							</li>
-							<li>
-								<img src="<?php echo get_template_directory_uri(''); ?>/img/TIDesarrollo.png" alt="">
-								<p>TI - Desarrollo</p>
-								<div class="grid2 pull-right">
-									<figure class="effect-sarah">
-										<img src="<?php echo get_template_directory_uri(''); ?>/img/FlechaDerechaAmarilla2.png" alt="img13"/>
-										<figcaption>
-											<h6>Ver más</h6>
-											<a href="servicios">Ver más</a>
-										</figcaption>
-									</figure>
-								</div>
-								</li>
-							<li>
-								<img src="<?php echo get_template_directory_uri(''); ?>/img/MarketingDigital.png" alt="">
-								<p>Marketing digital</p>
-								<div class="grid2 pull-right">
-									<figure class="effect-sarah">
-										<img src="<?php echo get_template_directory_uri(''); ?>/img/FlechaDerechaAmarilla2.png" alt="img13"/>
-										<figcaption>
-											<h6>Ver más</h6>
-											<a href="servicios">Ver más</a>
-										</figcaption>
-									</figure>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="PortCont">
-			<div class="container">
-				<div class="row">
-					<h2>PORTAFOLIO</h2>
-					<div class="lineYell wow fadeInUp" data-wow-duration="1s"></div>
-						<div class="row row-centered">
-						    <div class="col-md-5 col-centered wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1s">
-								<p>Hemos lanzado más de 100 proyectos para 50+ marcas en México y EUA. Aquí un algunos de los resultados</p>
-						    </div>
-						</div>
-					<div class="PortGrid">
-						<div class="col-md-6 col-sm-6 wow fadeInLeft10" data-wow-duration="1s">
-							<div class="grid">
-								<figure class="effect-bubba">
-									<img src="img/HomePortafolio1.png" alt="img02"/>
-									<figcaption>
-										<div class="circCont"></div>
-										<span><img src="<?php echo get_template_directory_uri(''); ?>img/FlechaDerechaAmarilla.png" alt=""></span>
-										<a href="interna">Ver más</a>
-									</figcaption>
-								</figure>
-								<article>
-									<h3>Royal Licorería</h3>
-									<p>Bebidas y complementos a domicilio</p>
-								</article>
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6 wow fadeInRight" data-wow-duration="1s">
-							<div class="grid">
-								<figure class="effect-bubba">
-									<img src="img/HomePortafolio2.png" alt="img02"/>
-									<figcaption>
-										<div class="circCont"></div>
-										<span><img src="<?php echo get_template_directory_uri(''); ?>img/FlechaDerechaAmarilla.png" alt=""></span>
-										<a href="interna">Ver más</a>
-									</figcaption>
-								</figure>
-								<article>
-									<h3>Royal Licorería</h3>
-									<p>Bebidas y complementos a domicilio</p>
-								</article>
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6 wow fadeInLeft10" data-wow-duration="1s">
-							<div class="grid">
-								<figure class="effect-bubba">
-									<img src="img/HomePortafolio3.png" alt="img02"/>
-									<figcaption>
-										<div class="circCont"></div>
-										<span><img src="<?php echo get_template_directory_uri(''); ?>img/FlechaDerechaAmarilla.png" alt=""></span>
-										<a href="interna">Ver más</a>
-									</figcaption>
-								</figure>
-								<article>
-									<h3>Royal Licorería</h3>
-									<p>Bebidas y complementos a domicilio</p>
-								</article>
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6 wow fadeInRight" data-wow-duration="1s">
-							<div class="grid">
-								<figure class="effect-bubba">
-									<img src="img/HomePortafolio1.png" alt="img02"/>
-									<figcaption>
-										<div class="circCont"></div>
-										<span><img src="<?php echo get_template_directory_uri(''); ?>/img/FlechaDerechaAmarilla.png" alt=""></span>
-										<a href="interna">Ver más</a>
-									</figcaption>
-								</figure>
-								<article>
-									<h3>Royal Licorería</h3>
-									<p>Bebidas y complementos a domicilio</p>
-								</article>
-							</div>
-						</div>
-					</div>
-				</div>
-				<a class="CircCenter" href="">Ver todos</a>
-			</div>
-		</section>
-
-		<section class="EqipCont">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<h2>EQUIPO</h2>
-						<div class="lineYell wow fadeInUp" data-wow-duration="1s"></div>
-						<div class="col-md-8 textEquip">
-							<p class="wow fadeInLeft10" data-wow-delay="100ms" data-wow-duration="1s"> Somos una agencia multi- disciplinaria compuesta por profesionistas de diferentes áreas comprometidos con un mismo objetivo: Brindar experiencias digitales enfocadas en los usuarios.</p>
-							<div class="grid2 wow fadeInLeft10" data-wow-delay="100ms" data-wow-duration="1s">
-								<figure class="effect-sarah wow fadeInLeft10">
-									<img src="<?php echo get_template_directory_uri(''); ?>/img/FlechaDerechaAmarilla2.png" alt="img13"/>
-									<figcaption>
-										<h6>Ver más</h6>
-										<a href="servicios">Ver más</a>
-									</figcaption>
-								</figure>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-8 equipAlbum">
-						<div class="col-md-12 mainPic NoPad wow fadeInUp10" data-wow-duration="1s">
-							<div class="IlustHover">
-								<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo1.png" alt="img13"/>
-								<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo1.png" alt="img13"/>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 secPic NoPad  hidden-xs wow fadeInUp10" data-wow-delay="100ms" data-wow-duration="1s">
-							<div class="IlustHover">
-								<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/>
-								<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo2.png" alt="img13"/>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 secPic NoPad  hidden-xs wow fadeInUp10" data-wow-delay="200ms" data-wow-duration="1s">
-							<div class="IlustHover">
-								<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
-								<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo3.png" alt="img13"/>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 secPic NoPad  hidden-xs wow fadeInUp10" data-wow-delay="300ms" data-wow-duration="1s">
-							<div class="IlustHover">
-								<img class="bottom" src="<?php echo get_template_directory_uri(''); ?>/img/EspiEquipo.png" alt="img13"/>
-								<img class="top" src="<?php echo get_template_directory_uri(''); ?>/img/HomeEquipo4.png" alt="img13"/>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="BlogCont">
-			<div class="container">
-				<div class="row">
-					<h2>BLOG</h2>
-					<div class="lineYell wow fadeInUp" data-wow-duration="1s"></div>
-					<div class="col-md-4 PostGrid wow fadeInUp10" data-wow-duration="1s">
-						<div class="grid">
-							<figure class="effect-terry">
-								<img src="img/meeting-coffee.jpg" alt="img16"/>
-								<figcaption>
-									<p>
-										<a href="#"><i class="blueDark fa fa-facebook-official"></i></a>
-										<a href="#"><i class="blueLight fa fa-twitter"></i></a>
-									</p>
-								</figcaption>
-							</figure>
-							<article>
-								<h5>Don’t waste your good ideas</h5>
-								<p>Por María F. Espinosa</p>
-							</article>
-						</div>
-					</div>
-					<div class="col-md-4 PostGrid wow fadeInUp10" data-wow-delay="100ms" data-wow-duration="1s">
-						<div class="grid">
-							<figure class="effect-terry">
-								<img src="img/meeting-coffee.jpg" alt="img16"/>
-								<figcaption>
-									<p>
-										<a href="#"><i class="blueDark fa fa-facebook-official"></i></a>
-										<a href="#"><i class="blueLight fa fa-twitter"></i></a>
-									</p>
-								</figcaption>
-							</figure>
-							<article>
-								<h5>Don’t waste your good ideas</h5>
-								<p>Por María F. Espinosa</p>
-							</article>
-						</div>
-					</div>
-					<div class="col-md-4 PostGrid wow fadeInUp10" data-wow-delay="300ms" data-wow-duration="1s">
-						<div class="grid">
-							<figure class="effect-terry">
-								<img src="img/meeting-coffee.jpg" alt="img16"/>
-								<figcaption>
-									<p>
-										<a href="#"><i class="blueDark fa fa-facebook-official"></i></a>
-										<a href="#"><i class="blueLight fa fa-twitter"></i></a>
-									</p>
-								</figcaption>
-							</figure>
-							<article>
-								<h5>Don’t waste your good ideas</h5>
-								<p>Por María F. Espinosa</p>
-							</article>
-						</div>
-					</div>
-				</div>
-			</div>
+		<section class="BolsaCont">
+			<a class="CircCenter" href="">Trabaja en Mellow</a>
 		</section>
